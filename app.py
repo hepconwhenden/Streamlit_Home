@@ -26,6 +26,11 @@ apps = [
         "title": "ラベル付き画像生成アプリ",
         "description": "スマートフォンやタブレットで写真を撮影し、ラベルを合成するアプリです。カメラアプリで撮影した画像が使えます。",
         "url": "https://hepconw-henden-app4.streamlit.app/"
+    },
+    {
+        "title": "ガス圧の20℃換算アプリ",
+        "description": "ガス圧を20℃換算するアプリ。MPa、kg/cm2対応。",
+        "url": "https://hepconw-henden-app4.streamlit.app/"
     }
 ]
 
