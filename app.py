@@ -23,7 +23,7 @@ apps = [
         "url": "https://hepconw-henden-app3.streamlit.app/"
     },
     {
-        "title": "ラベル付き画像生成アプリ",
+        "title": "ラベル付き写真生成アプリ",
         "description": "スマートフォンやタブレットで写真を撮影し、ラベルを合成するアプリです。カメラアプリで撮影した画像が使えます。",
         "url": "https://hepconw-henden-app4.streamlit.app/"
     },
