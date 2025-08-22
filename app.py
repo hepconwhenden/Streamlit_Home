@@ -29,7 +29,7 @@ apps = [
     },
     {
         "title": "SF6ガス圧20℃換算アプリ",
-        "description": "ガス圧を20℃換算するアプリ。MPa、kg/cm2対応。",
+        "description": "ガス圧を20℃換算するアプリ。MPa、kgf/cm²対応。",
         "url": "https://hepconw-henden-app5.streamlit.app/"
     }
 ]
