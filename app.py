@@ -13,7 +13,7 @@ apps = [
         "url": "https://hepconw-henden-app1.streamlit.app/"
     },
     {
-        "title": "巡視カード入力アプリ",
+        "title": "巡視カード入力アプリ（テスト）",
         "description": "設備ごとの点検結果や異常の有無を簡単に入力でき、データはCSV形式で保存・管理が可能です。",
         "url": "https://hepconw-henden-app2.streamlit.app/"
     },
