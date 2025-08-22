@@ -21,6 +21,11 @@ apps = [
         "title": "カメラ撮影＋ラベル合成アプリ",
         "description": "スマートフォンやタブレットで写真を撮影し、ラベルを合成するアプリです。仕様上フォーカスやズームといった機能は使えません。",
         "url": "https://hepconw-henden-app3.streamlit.app/"
+    },
+    {
+        "title": "ラベル付き画像生成アプリ",
+        "description": "スマートフォンやタブレットで写真を撮影し、ラベルを合成するアプリです。カメラアプリで撮影した画像が使えます。",
+        "url": "https://hepconw-henden-app4.streamlit.app/"
     }
 ]
 
