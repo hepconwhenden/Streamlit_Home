@@ -16,6 +16,11 @@ apps = [
         "title": "巡視カード入力アプリ",
         "description": "設備ごとの点検結果や異常の有無を簡単に入力でき、データはCSV形式で保存・管理が可能です。",
         "url": "https://hepconw-henden-app2.streamlit.app/"
+    },
+    {
+        "title": "カメラ撮影＋ラベル合成アプリ",
+        "description": "スマートフォンやタブレットで写真を撮影し、ラベルを合成するアプリです。",
+        "url": "https://hepconw-henden-app3.streamlit.app/"
     }
 ]
 
