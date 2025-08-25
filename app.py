@@ -4,7 +4,7 @@ st.set_page_config(page_title="変電Webアプリ", page_icon="🧊", layout="ce
 
 st.title("変電Webアプリ")
 st.write("現場業務をサポートするための便利なWebアプリ集です。以下のリンクから各アプリにアクセスできます。")
-st.write("各アプリは一定期間アクセスしないとスリープモードに入ります。「Zzzz This app has gone to sleep due to inactivity. Would you like to wake it back up?」と表示される場合、「Yes, get this app back up!」ボタンをおしてアクティベートしてください。")
+st.write("各アプリは一定期間アクセスしないとスリープモードに入ります。「😴Zzzz This app has gone to sleep due to inactivity. Would you like to wake it back up?」と表示される場合、「Yes, get this app back up!」ボタンをおしてアクティベートしてください。")
 
 # アプリ情報のリスト
 apps = [
