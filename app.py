@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="変電Webアプリ", layout="centered")
 
-st.title("📱変電Webアプリ")
+st.title("変電Webアプリ")
 st.write("現場業務をサポートするための便利なWebアプリ集です。以下のリンクから各アプリにアクセスできます。")
 
 # アプリ情報のリスト
@@ -45,7 +45,7 @@ search_query = st.text_input("🔍 アプリ名やキーワードで検索", "")
 # 検索結果の表示
 for app in apps:
     if search_query.lower() in app["title"].lower() or search_query.lower() in app["description"].lower():
-        st.subheader(f"📌 {app['title']}")
+        st.subheader(f"📱 {app['title']}")
         st.write(app["description"])
         st.markdown(f"[アプリを開く]({app['url']})")
 
