@@ -52,3 +52,5 @@ for app in apps:
 # 検索結果がない場合のメッセージ
 if search_query and not any(search_query.lower() in app["title"].lower() or search_query.lower() in app["description"].lower() for app in apps):
     st.warning("該当するアプリが見つかりませんでした。別のキーワードを試してください。")
+
+st.markdown(f"[ご意見・要望はこちらのフォームから](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNuaAHNwECB7NaXBvy3btSdd_-VthtDhecRTnWDG4VUQ0NYMUYwMk5INTBXSkRHQlFHQTNLNU5RQi4u)")
